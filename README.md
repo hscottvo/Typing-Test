@@ -1,3 +1,6 @@
+# NOTICE
+This project was the final project for my CS100 class. The repo was private due to the way that they facilitated assignments, but I wanted to keep this project, because in all honesty I think it's pretty cool. This also sort of explains all the files being added in one commit. I hope you enjoy!
+
 # An Efficient Code Typing Trainer
  
 Authors: [Scott Vo](https://github.com/hscottvo), [Danin Namiranian](https://github.com/Danin1993), [Brian Arciga](https://github.com/brianarciga1)
